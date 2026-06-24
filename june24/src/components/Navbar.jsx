@@ -17,7 +17,7 @@ function Navbar() {
         <p className="brand-subtitle">Click the navbar to move between pages.</p>
       </div>
 
-      <nav className="nav-links" aria-label="Main navigation">
+      <nav className="nav-links" >
         {links.map((link) => (
           <NavLink
             key={link.to}
