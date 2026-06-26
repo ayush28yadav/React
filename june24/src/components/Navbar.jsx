@@ -4,8 +4,9 @@ const links = [
   { to: '/', label: 'Home' },
   { to: '/about', label: 'About' },
   { to: '/learn', label: 'Learn' },
+ 
   { to: '/test', label: 'Test Page' },
-  {to: '/fetching', label: 'api call'},
+  { to: '/fetching', label: 'api call' },
   { to: '/todo', label: 'To-Do' },
 ]
 
